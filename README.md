@@ -9,6 +9,10 @@ Bengaluru Maps Clone is a React-based web application that utilizes the Leaflet 
 - Displays markers for origin and destination.
 - Responsive and modern UI.
 
+##Live Project
+
+- You can view the live project here: Bengaluru Maps Clone Live
+
 ## Technologies Used
 - React.js
 - React-Leaflet
